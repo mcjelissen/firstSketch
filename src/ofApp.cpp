@@ -12,7 +12,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofDrawBitmapStringHighlight("Alles lijkt te werken", 20, 20);
+    ofDrawBitmapStringHighlight("Alles lijkt te werken", 20, 20); // Voor een commit
 }
 
 //--------------------------------------------------------------
